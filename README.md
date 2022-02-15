@@ -14,3 +14,7 @@ Repositório de códigos em pyspark
 <p> Para utilizar o pyspark no databricks, é importante lembrar de importá-lo, através do:</p>
 
 ``import pyspark``
+<p> Lista de comandos úteis </p>
+<p> Para remover arquivos do File Store</p>
+
+` dbutils.fs.rm("/FileStore/<caminho do arquivo>") `
