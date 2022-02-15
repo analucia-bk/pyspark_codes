@@ -9,3 +9,8 @@ Repositório de códigos em pyspark
 <img width="100" height="100" src= "https://user-images.githubusercontent.com/53180510/154072962-1eb2c023-0bf8-49fc-b4be-843ad0eef4ce.png">
 </div>
 
+<h3>Documentações do exercícios</h3>
+
+<p> Para utilizar o pyspark no databricks, é importante lembrar de importá-lo, através do:</p>
+
+``import pyspark``
